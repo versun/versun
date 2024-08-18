@@ -5,7 +5,7 @@
 - Blog: [versun.me](https://versun.me) / [RSS](https://versun.me/feed.xml), [JSON Feed](https://versun.me/feed.json)
 - Email: github#verun.me
 - Telegram: [Versun Pan](https://t.me/versunpan)
-- Mastodon: [@versun@versun.me](https://micro.blog/versun_pan?remote_follow=1)
+- Mastodon: [@versun@versun.me](https://versun.me/@versun)
 - Twitter: [@versunpan](https://x.com/VersunPan)
 
 ### A Big Thank You to My Sponsors
