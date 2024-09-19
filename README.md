@@ -15,3 +15,5 @@ I am deeply grateful to my amazing supporters and sponsors who have made my open
     <img src='https://raw.githubusercontent.com/versun/sponsors/main/sponsors.svg'/>
   </a>
 </p>
+
+Become a Sponser on [Github](https://github.com/sponsors/versun) / [Open Collective](https://opencollective.com/rsstranslator) / [Buy me a Coffee](https://buymeacoffee.com/versun) / [爱发电](https://afdian.com/@versun) 
