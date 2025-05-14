@@ -15,6 +15,7 @@ I am deeply grateful to my amazing supporters and sponsors who have made my open
 Additional Sponsors
 - YYYoung
 - piglei
+- 大核桃
 
 Become a Sponser on [Github](https://github.com/sponsors/versun) / [爱发电](https://afdian.com/@versun) / [微信](https://github.com/versun/sponsors/blob/b11431cb1302a4605f8e92447aaa061cbe704b68/wechat.jpg)
 
