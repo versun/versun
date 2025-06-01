@@ -10,7 +10,7 @@
 
 ### A Big Thank You to My Sponsors
 I am deeply grateful to my amazing supporters and sponsors who have made my open source journey possible.
-![sponsors](https://supporters.versun.me/sponsors.svg)
+![sponsors](./sponsors.svg)
 
 Additional Sponsors
 - YYYoung
