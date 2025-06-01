@@ -1,0 +1,53 @@
+name: Download Latest Image
+
+on:
+  schedule:
+    # 每天UTC时间00:00执行（北京时间08:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  download-image:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Download photo from URL
+        run: |
+          # 设置照片URL（请替换为您的实际URL）
+          SVG_URL="https://supporters.versun.me/sponsors.svg"
+          
+          # 生成带时间戳的文件名
+          TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+          FILENAME="sponsors.svg"
+          
+          # 下载照片
+          curl -L "$SVG_URL" --output "./$FILENAME"
+          
+          # 验证文件是否下载成功
+          if [ -f "./$FILENAME" ]; then
+            echo "SVG downloaded successfully: $FILENAME"
+            echo "DOWNLOADED_FILE=$FILENAME" >> $GITHUB_ENV
+          else
+            echo "Failed to download photo"
+            exit 1
+          fi
+      
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      
+      - name: Commit and push changes
+        run: |
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-download latest photo: ${{ env.DOWNLOADED_FILE }}"
+            git push
+          fi
