@@ -10,6 +10,21 @@
 
 ### A Big Thank You to My Sponsors
 I am deeply grateful to my amazing supporters and sponsors who have made my open source journey possible.
+<table>
+  <tr>
+    <td style="padding:10px;">
+      <a href="https://www.railway.app">
+        <img src="https://railway.app/brand/logo-light.png" alt="Railway" style="width:100px; height:100px;">
+      </a>
+    </td>
+    <td style="padding:10px;">
+      <a href="https://insforge.dev/">
+        <img src="https://raw.githubusercontent.com/InsForge/InsForge/refs/heads/main/assets/Dark.svg" alt="InsForge" style="width:100px; height:100px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ![sponsors](./sponsors.svg)
 
 Additional Sponsors
