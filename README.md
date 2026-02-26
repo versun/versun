@@ -1,6 +1,6 @@
 ### Hi I'm Versun 👋
 
-<img style="max-width: 450px" align="right" src="https://github-readme-stats.vercel.app/api?username=versun&show_icons=true&theme=onedark&hide_title=true&include_all_commits=true&count_private=true" alt="Versun's github stats"/>
+<img style="max-width: 450px" align="right" src="./profile/stats.svg" alt="Versun's github stats"/>
 
 - Blog: [versun.me](https://versun.me) / [RSS](https://versun.me/feed)
 - Email: github#verun.me
