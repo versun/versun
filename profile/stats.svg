@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Versun's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 714, Total Commits  (last year) : 752, Total PRs: 134, Total Issues: 30, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 716, Total Commits  (last year) : 752, Total PRs: 134, Total Issues: 30, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 52.759070151463526;
+        stroke-dashoffset: 52.7447549825546;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >714</text>
+      >716</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
