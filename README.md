@@ -12,7 +12,7 @@
 
 **进行中**
 - [ShareThis.Chat](https://sharethis.chat/)：AI 聊天分享器
-- [Rables](https://github.com/versun/Rables)：本博客所使用的 CMS，使用 Rails 框架编写
+- [Rables](https://github.com/versun/Rables)：博客 CMS，使用 Rails 框架编写
 
 **旧项目**
 - [neon-swarm](https://github.com/versun/neon-swarm)：霓虹蜂群 — 多人实时在线太空射击游戏
