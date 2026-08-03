@@ -21,9 +21,9 @@
 - [星座运势](https://github.com/versun/xzys)：从星座运势文章中自动提取结构化信息，生成可导出的日历表格数据
 - [asuka-tiny-home](https://github.com/versun/asuka-tiny-home)：A tiny-world home for Asuka Langley Soryu, built from Jason Kneen's Tiny World Builder
 - [Send](https://github.com/versun/send)：匿名文件分享器
-- [Clip](https://github.com/versun/clip)（[clip.versun.me](https://clip.versun.me/)）：极简匿名 Pastebin 文本分享器
-- [LKS](https://github.com/versun/LKS/)（[lks.versun.me](https://lks.versun.me)）：可匿名使用的短链接生成器
-- [RSS Box](https://github.com/versun/RSSBox)（[rssbox.app](https://rssbox.app)）：开源、简洁、可自部署的 RSS 翻译器
+- [Clip](https://github.com/versun/clip)：极简匿名 Pastebin 文本分享器
+- [LKS](https://github.com/versun/LKS/)：可匿名使用的短链接生成器
+- [RSS Box](https://github.com/versun/RSSBox)：开源、简洁、可自部署的 RSS 翻译器
 - [54321周刊](https://54321.versun.me/)：每周六分享科技趣闻
 - [SponsorGen](https://github.com/versun/sponsorgen)：一个基于 Go 的动态赞助者图片生成工具，支持多平台赞助数据聚合与展示
 - [aicmt](https://github.com/versun/aicmt)：一个 AI 驱动的 Git 提交助手，不仅能自动生成提交信息，还能自动分析代码变更，并根据最佳实践将其拆分为多个结构良好的提交
