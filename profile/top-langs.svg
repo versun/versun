@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="122.4"
+          width="122.37"
           height="8"
           fill="#DA5B0B"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="122.4"
+          x="122.37"
           y="0"
-          width="68.58"
+          width="68.57"
           height="8"
           fill="#e34c26"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="190.98000000000002"
+          x="190.94"
           y="0"
-          width="25.03"
+          width="25.02"
           height="8"
           fill="#00ADD8"
         />
@@ -166,7 +166,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="216.01000000000002"
+          x="215.96"
           y="0"
           width="17.07"
           height="8"
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.08"
+          x="233.03"
           y="0"
-          width="13.35"
+          width="13.4"
           height="8"
           fill="#3572A5"
         />
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 48.96%
+        Jupyter Notebook 48.95%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -227,14 +227,14 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 5.34%
+        Python 5.36%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 1.43%
+        JavaScript 1.42%
       </text>
     </g>
   </g></g>
