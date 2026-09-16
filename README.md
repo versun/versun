@@ -1,6 +1,11 @@
-### Hi I'm Versun 👋
+<a href="https://ghfind.com/u/versun?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/versun?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/versun?theme=light" align="right" alt="GitHub Roast score card" width="440" />
+  </picture>
+</a>
 
-<img style="max-width: 450px" align="right" src="./profile/stats.svg" alt="Versun's github stats"/>
+### Hi I'm Versun 👋
 
 - Blog: [versun.me](https://versun.me) / [RSS](https://versun.me/feed)
 - Email: github#verun.me
