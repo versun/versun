@@ -19,7 +19,7 @@
 - [comicforge](https://github.com/versun/comicforge)：漫画分镜生成器
 - [orbit](https://github.com/versun/orbit)：以拟态（Claymorphism）风格呈现的实时太阳系模拟网站
 - [ShareThis.Chat](https://sharethis.chat/)：AI 聊天分享器
-- [Rables](https://github.com/versun/Rables)：博客 CMS，使用 Rails 框架编写
+- [Rables](https://github.com/versun/Rables)：个人使用的博客 CMS 系统
 - [星座运势](https://github.com/versun/xzys)：从星座运势文章中自动提取结构化信息，生成可导出的日历表格数据
 - [asuka-tiny-home](https://github.com/versun/asuka-tiny-home)：A tiny-world home for Asuka Langley Soryu, built from Jason Kneen's Tiny World Builder
 - [Send](https://github.com/versun/send)：匿名文件分享器
