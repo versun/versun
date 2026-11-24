@@ -8,6 +8,8 @@
 - Twitter: [@versunpan](https://x.com/VersunPan)
 
 ### Projects
+- [paseo-todo](https://github.com/versun/paseo-todo): Paseo plugin: TODO task lists backed by plain TODO.md files
+- [paseo-turnline](https://github.com/versun/paseo-turnline): A Paseo workspace plugin for inspecting every agent turn on a scrollable, reversible timeline: prompts, thinking, tool calls, replies, per-step token usage, cache hit rate, duration, cost, and provider prompt context.
 - [finger-frame](https://github.com/versun/finger-frame)：用摄像头识别手势，双手拇指 + 食指比出方框，框内实时呈现各种画面特效的网页小玩具。
 - [neon-swarm](https://github.com/versun/neon-swarm)：霓虹蜂群 — 多人实时在线太空射击游戏
 - [comicforge](https://github.com/versun/comicforge)：漫画分镜生成器
